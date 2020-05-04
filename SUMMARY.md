@@ -12,3 +12,9 @@
 * [样式参考](ass/ass-styles.md)
 * [ASS标签/特效代码](ass/ass-biao-qian-te-xiao-dai-ma.md)
 
+## 资源 <a id="sources"></a>
+
+* [翻译资源](sources/translate-sources.md)
+* [时轴资源](sources/shi-zhou-zi-yuan.md)
+* [其他资源](sources/qi-ta-zi-yuan.md)
+
