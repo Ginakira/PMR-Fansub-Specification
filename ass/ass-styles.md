@@ -9,7 +9,11 @@ description: 好看的样式千篇一律 有趣的整活万里挑一
 * 样式字幕的颜色，可使用Aegisub自带的取色工具（颜色拾取器）更改
 
 {% hint style="info" %}
-样式中用到的字体，请在群文件“样式-工具“文件夹中下载字体包
+样式中用到的字体，请在群文件“样式-工具“文件夹中下载字体包/单个字体
+{% endhint %}
+
+{% hint style="warning" %}
+样式可能存在缺失，会逐步完善补全
 {% endhint %}
 
 ## 基本样式
@@ -22,7 +26,7 @@ description: 好看的样式千篇一律 有趣的整活万里挑一
 视频中的其他小字/标注字幕也可以使用该样式
 {% endhint %}
 
-![STAFF](../.gitbook/assets/image%20%288%29.png)
+![STAFF](../.gitbook/assets/image%20%2811%29.png)
 
 ### 默认字体（基础样式）
 
@@ -36,7 +40,7 @@ description: 好看的样式千篇一律 有趣的整活万里挑一
 
 字体：思源黑体
 
-![Anime\_Default](../.gitbook/assets/image%20%285%29.png)
+![Anime\_Default](../.gitbook/assets/image%20%286%29.png)
 
 ## 动物之森样式
 
@@ -44,7 +48,7 @@ description: 好看的样式千篇一律 有趣的整活万里挑一
 
 对应画面：
 
-![Channel](../.gitbook/assets/image%20%287%29.png)
+![Channel](../.gitbook/assets/image%20%289%29.png)
 
 字体：墨字体（ＤＦクラフト墨W9） 仅支持繁体字
 
@@ -66,7 +70,7 @@ description: 好看的样式千篇一律 有趣的整活万里挑一
 
 对应画面：
 
-![Boom](../.gitbook/assets/image%20%289%29.png)
+![Boom](../.gitbook/assets/image%20%2816%29.png)
 
 基础样式，可自行更改颜色，如红色
 
@@ -78,7 +82,35 @@ description: 好看的样式千篇一律 有趣的整活万里挑一
 
 对应画面：
 
-![Inner Black](../.gitbook/assets/image%20%286%29.png)
+![Inner Black](../.gitbook/assets/image%20%288%29.png)
 
-如“服务处“三个字，请使用`{\fnReeji-CloudHeiChao-GBK}要改变字体的部分{\fn}`将要部分改变字体的内容包裹起来
+![Inner](../.gitbook/assets/image%20%2815%29.png)
+
+如“服务处“、"世界地图“这种在普通样式中有其他字体的部分，请使用`{\fn字体名}要改变字体的部分{\fn}`将要部分改变字体的内容包裹起来
+
+### 大号粗宋体
+
+对应画面：
+
+![Serif](../.gitbook/assets/image%20%285%29.png)
+
+![Serif](../.gitbook/assets/image%20%2814%29.png)
+
+颜色请根据需要自行调整。
+
+字体：方正粗雅宋\_GBK
+
+![Serif](../.gitbook/assets/image%20%2810%29.png)
+
+### 恐怖/扭曲
+
+对应画面：
+
+![distorted](../.gitbook/assets/image%20%2813%29.png)
+
+![distorted](../.gitbook/assets/image%20%2812%29.png)
+
+字体：贤二体
+
+![](../.gitbook/assets/image%20%287%29.png)
 
