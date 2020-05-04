@@ -1,5 +1,5 @@
 ---
-description: PMR字幕组烤肉指北 - 翻译/时轴风格规范
+description: 为了更好的整活
 ---
 
 # 概述
