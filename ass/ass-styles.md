@@ -26,7 +26,9 @@ description: 好看的样式千篇一律 有趣的整活万里挑一
 视频中的其他小字/标注字幕也可以使用该样式
 {% endhint %}
 
-![STAFF](../.gitbook/assets/image%20%2811%29.png)
+
+
+![3lgUD8zOJeM6sbR](https://i.loli.net/2020/05/05/3lgUD8zOJeM6sbR.png)
 
 ### 默认字体（基础样式）
 
@@ -34,13 +36,13 @@ description: 好看的样式千篇一律 有趣的整活万里挑一
 
 字体：站酷快乐体2016修订版
 
-![Pmaru\_Default](../.gitbook/assets/image%20%281%29.png)
+![eawJYGctWE7iPvk](https://i.loli.net/2020/05/05/eawJYGctWE7iPvk.png)
 
 ### 番剧中文字幕
 
 字体：思源黑体
 
-![Anime\_Default](../.gitbook/assets/image%20%286%29.png)
+![6Z5f8RkaUWQryPC](https://i.loli.net/2020/05/05/6Z5f8RkaUWQryPC.png)
 
 ## 动物之森样式
 
@@ -48,43 +50,43 @@ description: 好看的样式千篇一律 有趣的整活万里挑一
 
 对应画面：
 
-![Channel](../.gitbook/assets/image%20%289%29.png)
+![fnV1Oqv7J8XsAbd](https://i.loli.net/2020/05/05/fnV1Oqv7J8XsAbd.png)
 
 字体：墨字体（ＤＦクラフト墨W9） 仅支持繁体字
 
-![](../.gitbook/assets/image%20%283%29.png)
+![lAiTXNgGC8yUSOr](https://i.loli.net/2020/05/05/lAiTXNgGC8yUSOr.png)
 
 ### 默认站酷黄（基础样式）
 
 对应画面：
 
-![Normal Zhanku](../.gitbook/assets/image.png)
+![BwUCyn1hsZVEqWx](https://i.loli.net/2020/05/05/BwUCyn1hsZVEqWx.png)
 
 基础样式，请自行变换颜色存储，如nanamori紫（🍋）
 
 字体：站酷快乐体2016修订版
 
-![Deafault ZhanKu](../.gitbook/assets/image%20%284%29.png)
+![q9yr7k8utUKIhMi](https://i.loli.net/2020/05/05/q9yr7k8utUKIhMi.png)
 
 ### 大字爆炸边
 
 对应画面：
 
-![Boom](../.gitbook/assets/image%20%2816%29.png)
+![d4NEyS3YGmtkrQT](https://i.loli.net/2020/05/05/d4NEyS3YGmtkrQT.png)
 
 基础样式，可自行更改颜色，如红色
 
 字体：锐字工房云字库超黑GBK
 
-![Boom](../.gitbook/assets/image%20%282%29.png)
+![ZrN57JTMXCgL2kO](https://i.loli.net/2020/05/05/ZrN57JTMXCgL2kO.png)
 
 ### 内联黑体
 
 对应画面：
 
-![Inner Black](../.gitbook/assets/image%20%288%29.png)
+![yH3afdLR9JAYP4N](https://i.loli.net/2020/05/05/yH3afdLR9JAYP4N.png)
 
-![Inner](../.gitbook/assets/image%20%2815%29.png)
+![z9DakBYSXZxoIUv](https://i.loli.net/2020/05/05/z9DakBYSXZxoIUv.png)
 
 如“服务处“、"世界地图“这种在普通样式中有其他字体的部分，请使用`{\fn字体名}要改变字体的部分{\fn}`将要部分改变字体的内容包裹起来
 
@@ -92,25 +94,25 @@ description: 好看的样式千篇一律 有趣的整活万里挑一
 
 对应画面：
 
-![Serif](../.gitbook/assets/image%20%285%29.png)
+![VBukJa9NTIsybti](https://i.loli.net/2020/05/05/VBukJa9NTIsybti.png)
 
-![Serif](../.gitbook/assets/image%20%2814%29.png)
+![QZOWNukJVYUrMvS](https://i.loli.net/2020/05/05/QZOWNukJVYUrMvS.png)
 
 颜色请根据需要自行调整。
 
 字体：方正粗雅宋\_GBK
 
-![Serif](../.gitbook/assets/image%20%2810%29.png)
+![KmywtC6dsqTI32c](https://i.loli.net/2020/05/05/KmywtC6dsqTI32c.png)
 
 ### 恐怖/扭曲
 
 对应画面：
 
-![distorted](../.gitbook/assets/image%20%2813%29.png)
+![CNQni9oVDW1hyJc](https://i.loli.net/2020/05/05/CNQni9oVDW1hyJc.png)
 
-![distorted](../.gitbook/assets/image%20%2812%29.png)
+![YnRbMNGZazxj8kw](https://i.loli.net/2020/05/05/YnRbMNGZazxj8kw.png)
 
 字体：贤二体
 
-![](../.gitbook/assets/image%20%287%29.png)
+![1mibupBOyhHo4Zc](https://i.loli.net/2020/05/05/1mibupBOyhHo4Zc.png)
 
