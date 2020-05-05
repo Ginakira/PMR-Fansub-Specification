@@ -9,7 +9,7 @@ description: 好看的样式千篇一律 有趣的整活万里挑一
 * 样式字幕的颜色，可使用Aegisub自带的取色工具（颜色拾取器）更改
 
 {% hint style="info" %}
-样式中用到的字体，请在群文件“样式-工具“文件夹中下载字体包/单个字体
+样式中用到的字体，请前往[时轴资源](../sources/shi-zhou-zi-yuan.md)自行取用
 {% endhint %}
 
 {% hint style="warning" %}
