@@ -5,7 +5,7 @@ description: 左手一个Aegisub 右手一个小丸工具箱
 # 时轴资源
 
 {% hint style="success" %}
-样式字体合集 密码：pmaru  [https://stdntpartners-my.sharepoint.com/:f:/g/personal/ginakira\_studentpartner\_com/EnvIOdz\_13tCu63klAohSHkBW3DQZR2widPAxQFdaRAs8A?e=aQo0j0](https://stdntpartners-my.sharepoint.com/:f:/g/personal/ginakira_studentpartner_com/EnvIOdz_13tCu63klAohSHkBW3DQZR2widPAxQFdaRAs8A?e=aQo0j0)
+样式字体合集 密码：pmaru [ https://stdntpartners-my.sharepoint.com/:f:/g/personal/ginakira\_studentpartner\_com/EnvIOdz\_13tCu63klAohSHkBW3DQZR2widPAxQFdaRAs8A?e=aQo0j0](https://stdntpartners-my.sharepoint.com/:f:/g/personal/ginakira_studentambassadors_com/EnvIOdz_13tCu63klAohSHkBW3DQZR2widPAxQFdaRAs8A)
 {% endhint %}
 
 {% hint style="success" %}
